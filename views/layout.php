@@ -19,11 +19,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href='/projects/comment system master'>Comment System</a>
+					<a class="navbar-brand" href='?controller=pages&action=home'>Comment System</a>
 				</div>
 				<div id="navbar" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
-						<li><a href='/projects/comment system master'>Home</a></li>
+						<li><a href='?controller=pages&action=home'>Home</a></li>
 						<li><a href='?controller=posts&action=index'>Posts</a></li>
 						<li><a href='?controller=pages&action=spamlist'>Spam list</a></li>
 						<li><a href='?controller=broken&action=index'>Broken link</a></li>
